@@ -1,3 +1,0 @@
-gymnasium-robotics
-packaging
-stable-baselines3[extra]
