@@ -173,6 +173,6 @@ Experiments Breakdown
     critic_loss = 1.69
 
 
-
+py -3.10 -m venv venv310
 venv310\Scripts\activate 
 cd internship_rl_project 
